@@ -1,16 +1,24 @@
-### Hi there 👋
+## Hello there 👋
 
-<!--
-**RamuDevarashetti1/RamuDevarashetti1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# This is ***Ramu Devarashetti*** 😃
 
-Here are some ideas to get you started:
+## A Littile Info About Me !!!
+Grad Student @***NWMISSOURI*** in **Applied Computer Science** <https://www.nwmissouri.edu/>.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Ex *Software Engineer* @***Universal Electronic Inc.*** <https://www.uei.com/>.
+
+Ex *Project Engineer* @ ***Wipro Technologies Limited*** <https://www.wipro.com/>.   
+
+### My Technical Skills
+* Python    ⭐⭐⭐⭐⭐ 
+* Docker    ⭐⭐⭐⭐⭐
+* Linux     ⭐⭐⭐⭐
+* IoT       ⭐⭐⭐⭐
+* C         ⭐⭐⭐ 
+* C++       ⭐⭐⭐ 
+* Cloud     ⭐⭐⭐
+* Java      ⭐⭐
+
+### Connect with Me at
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/ramu-devarashetti-a7bb07136/?originalSubdomain=in)
+
