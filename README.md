@@ -20,5 +20,5 @@ Ex *Project Engineer* @ ***Wipro Technologies Limited*** <https://www.wipro.com/
 * Java      ⭐⭐
 
 ### Connect with Me at
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/ramu-devarashetti-a7bb07136/?originalSubdomain=in)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/ramu-devarashetti/)
 
